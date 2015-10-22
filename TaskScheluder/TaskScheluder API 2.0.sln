@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TaskScheluder API 2.0", "TaskScheluder API 2.0\TaskScheluder API 2.0.vcxproj", "{22021040-2B17-48C7-B89A-4DEA938E96AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22021040-2B17-48C7-B89A-4DEA938E96AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22021040-2B17-48C7-B89A-4DEA938E96AE}.Debug|Win32.Build.0 = Debug|Win32
+		{22021040-2B17-48C7-B89A-4DEA938E96AE}.Release|Win32.ActiveCfg = Release|Win32
+		{22021040-2B17-48C7-B89A-4DEA938E96AE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
